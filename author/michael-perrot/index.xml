@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michaël Perrot | Michael Lohaus</title>
+    <link>https://mlohaus.github.io/author/michael-perrot/</link>
+      <atom:link href="https://mlohaus.github.io/author/michael-perrot/index.xml" rel="self" type="application/rss+xml" />
+    <description>Michaël Perrot</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mlohaus.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Michaël Perrot</title>
+      <link>https://mlohaus.github.io/author/michael-perrot/</link>
+    </image>
+    
+    <item>
+      <title>Too Relaxed to Be Fair</title>
+      <link>https://mlohaus.github.io/publication/toorelaxedtobefair/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://mlohaus.github.io/publication/toorelaxedtobefair/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
