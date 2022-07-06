@@ -5,12 +5,20 @@
     <link>https://mlohaus.github.io/publication-type/1/</link>
       <atom:link href="https://mlohaus.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 21 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mlohaus.github.io/images/icon_hu6648993b642216a2188543163a135afd_9573_512x512_fill_lanczos_center_2.png</url>
       <title>1</title>
       <link>https://mlohaus.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Leveling Down in Computer Vision: Pareto Inefficiencies in Fair Deep Classifiers</title>
+      <link>https://mlohaus.github.io/publication/levelingdown/</link>
+      <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://mlohaus.github.io/publication/levelingdown/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Too Relaxed to Be Fair</title>
