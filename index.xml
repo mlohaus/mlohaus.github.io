@@ -5,7 +5,7 @@
     <link>https://mlohaus.github.io/</link>
       <atom:link href="https://mlohaus.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Michael Lohaus</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 06 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 09 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mlohaus.github.io/images/icon_hu6648993b642216a2188543163a135afd_9573_512x512_fill_lanczos_center_2.png</url>
       <title>Michael Lohaus</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Are Two Heads the Same as One? Identifying Disparate Treatment in Fair Neural Networks</title>
       <link>https://mlohaus.github.io/publication/disparatetreatment/</link>
-      <pubDate>Wed, 06 Jul 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
       <guid>https://mlohaus.github.io/publication/disparatetreatment/</guid>
       <description></description>
     </item>
@@ -23,7 +23,7 @@
     <item>
       <title>Leveling Down in Computer Vision: Pareto Inefficiencies in Fair Deep Classifiers</title>
       <link>https://mlohaus.github.io/publication/levelingdown/</link>
-      <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://mlohaus.github.io/publication/levelingdown/</guid>
       <description></description>
     </item>
